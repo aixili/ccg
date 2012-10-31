@@ -1,1 +1,1 @@
-dd
+edit g.vim
